@@ -1,0 +1,11 @@
+1 - O símbolo carregamento é de baixo para cima.
+
+2 - O símbolo carregamento é do meio e finaliza em cima e em baixo.
+
+3 - O símbolo carregamento é de cima e finaliza em baixo.
+
+4 - O símbolo carregamento é da direita para esquerda.
+
+5 - O símbolo carregamento é do meio e finaliza na esquerda e direita.
+
+6 - O símbolo carregamento é da esquerda para a direita.
